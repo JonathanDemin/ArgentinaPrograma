@@ -1,0 +1,10 @@
+h1{
+  background-color: rgb(77, 77, 168);
+  color: aliceblue;
+text-align: center;
+}
+h2,h3,h4,h5,h6{
+    background-color: rgb(56, 180, 31);
+    color: rgb(5, 7, 8);
+  text-align: center;
+}
