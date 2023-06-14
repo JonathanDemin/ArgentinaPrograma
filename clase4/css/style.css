@@ -1,0 +1,30 @@
+body {
+    background: #fff;
+    color: #000000;
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+    margin: 5px;
+}
+#divprincipal {
+    color: #444;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  #divpie {
+    color: #1900fa;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: #7e7c7ce5;
+  }
+  #divcabecera {
+    color: #0c6b09;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  #menu{
+    color: #007bff;
+    text-decoration: none;
+    text-align: end;
+}
