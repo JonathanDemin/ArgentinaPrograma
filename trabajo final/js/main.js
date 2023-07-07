@@ -123,6 +123,6 @@
 
 
   document.getElementById("Alerta").onclick = function() {
-    alert("Mensaje Enviado");
+    alert("Mensaje Enviado Correctamente");
     }
 
