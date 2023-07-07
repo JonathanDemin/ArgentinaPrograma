@@ -12,7 +12,9 @@
 body {
   background: #fff;
   color: #444;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'IBM Plex Mono', monospace;
+  
+
 }
 
 a {
@@ -39,7 +41,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", sans-serif;
+  
+  font-family: 'Encode Sans bold', sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
@@ -159,7 +162,7 @@ h6 {
 #header .logo img {
   padding: 0;
   margin: 0px 0;
-  height: 60px;
+  height: 50px;
   width: 400px;
 }
 
@@ -229,7 +232,7 @@ h6 {
 
 #intro .intro-info .btn-services {
   border: 2px solid #ffffff;
-  background-color: #62267a;
+  background-color: #6E2F93;
   color: #e71964;
 }
 
@@ -478,7 +481,7 @@ h6 {
 --------------------------------*/
 
 .section-bg {
-  background: #ecf5ff;
+  background: #E9E7E8;
 }
 
 /* About Us Section
@@ -644,7 +647,7 @@ h6 {
 
 #why-us {
   padding: 60px 0;
-  background: #004a99;
+  background: #6E2F93;
 }
 
 #why-us .section-header h3,
@@ -653,8 +656,8 @@ h6 {
 }
 
 #why-us .card {
-  background: #00458f;
-  border-color: #00458f;
+  background: #9E69C5;
+  border-color: #e71964;
   border-radius: 10px;
   margin: 0 15px;
   padding: 15px 0;
@@ -702,7 +705,7 @@ h6 {
 }
 
 #why-us .counters span {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Encode Sans bold', sans-serif;
   font-weight: bold;
   font-size: 48px;
   display: block;
@@ -712,7 +715,7 @@ h6 {
 #why-us .counters p {
   padding: 0;
   margin: 0 0 20px 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Encode Sans bold', sans-serif;
   font-size: 14px;
   color: #cce5ff;
 }
@@ -737,19 +740,19 @@ h6 {
   margin: 15px 15px 15px 0;
   display: inline-block;
   padding: 6px 20px;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 20px;
-  color: #007bff;
+  color: #1E1E1E;
   border-radius: 50px;
   text-transform: uppercase;
-  background: #ecf5ff;
+  background: #E71964;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-  background: #007bff;
+  background: #9E69C5;
   color: #fff;
 }
 
